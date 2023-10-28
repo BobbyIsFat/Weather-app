@@ -1,0 +1,24 @@
+#myButton{
+    background-color: #f44336;
+    border: 2px solid black;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#myButton:hover{
+    background-color:blue;
+}
+img{
+    border: 2px solid darkgreen;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+}
+img:hover{
+    border: 2px solid purple;
+}
